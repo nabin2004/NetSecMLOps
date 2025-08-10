@@ -21,4 +21,11 @@ def get_requirements() -> List[str]:
 
     return requirement_list
 
-print(get_requirements())
+setup(
+    name="NetSecMLOps",
+    version="0.0.1",
+    author="Nabin Oli",
+    author_email="nabinoli2004@gmail.com",
+    packages=find_packages(),
+    install_requires=get_requirements()
+)

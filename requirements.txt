@@ -5,5 +5,7 @@ python-dotenv==1.1.1
 pytz==2025.2
 six==1.17.0
 tzdata==2025.2
+pymongo
+certifi
 
--e.
+# -e .
