@@ -8,5 +8,5 @@ tzdata==2025.2
 pymongo
 pymongo[srv]==3.12
 certifi
-
+scikit-learn
 # -e .
