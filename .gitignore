@@ -1,4 +1,4 @@
 .env
 Network_Data/*.csv
-__pycache__/
+*__pycache__*
 *.pyc
