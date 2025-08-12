@@ -2,3 +2,7 @@
 Network_Data/*.csv
 *__pycache__*
 *.pyc
+
+logs/
+final_model/
+Artifacts/
