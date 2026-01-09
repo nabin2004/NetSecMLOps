@@ -6,3 +6,4 @@ Network_Data/*.csv
 logs/
 final_model/
 Artifacts/
+.venv/
